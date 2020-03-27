@@ -1,5 +1,5 @@
 def my_hash
-  my_hash = {"desktop" => "custom built", "laptop" => "lenovo", "server" => "PowerEdge R710"
+  my_hash = {"desktop" => "custom built", "laptop" => "lenovo", "server" => "PowerEdge R710"}
 end
 
 
